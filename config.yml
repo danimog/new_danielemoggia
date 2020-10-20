@@ -1,0 +1,26 @@
+baseURL: "/"
+languageCode: "it-IT"
+title: 'DanieleMoggia.it'
+theme: 'hugo-PaperMod'
+
+params:
+  homeInfoParams:
+    # Title: "Ciao \U0001F4BB"
+    Title: "Ciao \U0001F919"
+    Content: Benvenuto nel mio blog!
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/danimog/'
+    - name: stackoverflow
+      url: 'https://stackoverflow.com'
+    - name: gitlab
+      url: 'https://gitlab.com/danimog'
+    - name: slack
+      url: 'https://slack.com'
+
+  ShowShareButtons: true
+
+  ShowReadingTime: true
+
+  ShowToc: true

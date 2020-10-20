@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "it-IT"
+title = "DanieleMoggia.it"
+theme= "hugo-PaperMod"
+
+[homeInfoParams]
+    Title= "Hi there \U0001F44B"
+    Content= "Benvenuto nel mio blog"
+
+socialIcons=
+    - name= "twitter"
+      url= 'https://twitter.com/'
+    - name= "stackoverflow"
+      url= 'https://stackoverflow.com'
+    - name= "github"
+      url= 'https://github.com/'
