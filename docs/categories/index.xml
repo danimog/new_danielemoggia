@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DanieleMoggia.it</title>
-    <link>/categories/</link>
+    <link>/new_danielemoggia/categories/</link>
     <description>Recent content in Categories on DanieleMoggia.it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/new_danielemoggia/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
