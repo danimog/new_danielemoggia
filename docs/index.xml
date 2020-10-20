@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DanieleMoggia.it</title>
+    <link>/</link>
+    <description>Recent content on DanieleMoggia.it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Tue, 20 Oct 2020 14:55:20 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La relazione di trust..</title>
+      <link>/posts/sitistatici/</link>
+      <pubDate>Tue, 20 Oct 2020 14:55:20 +0200</pubDate>
+      
+      <guid>/posts/sitistatici/</guid>
+      <description>La collega mi chiama: il computer è bloccato non riesco ad accedere. Mi siedo alla postazione e controllo il PC fermo nella schermata CTRL + ALT + CANC. Premo la combinazione e provo il login come Administrator nella rete locale.
+ “La relazione di trust tra questa workstation e il dominio primario non riuscita”.
+ Mi pareva di aver già sistemato un tempo la cosa e probabilmente DuckDuckGo mi rinfrescherà la memoria.</description>
+    </item>
+    
+    <item>
+      <title>Benvenuti</title>
+      <link>/posts/benvenuti/</link>
+      <pubDate>Tue, 20 Oct 2020 14:25:20 +0200</pubDate>
+      
+      <guid>/posts/benvenuti/</guid>
+      <description>Benvenuto a bordo. Di che si parla qui? Dipende. Scrivo di tentativi di programmazione, viaggi abbozzati, musica, politica (seriamente?), cibo, vino, sentieri e sport.
+ E questo primo post dovrebbe dire tutto o forse niente di quello che sarà questo spazio; che forse non andrà o forse tra mesi sarà cercato da molte più persone.
+ Si salpa Dopo un po&amp;rsquo; di tempo ho messo mano al &amp;ldquo;mio&amp;rdquo; sito personale, aggiornando progetti, bio e cose su cui sto perdendo del tempo (o forse no).</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+  </channel>
+</rss>
